@@ -42,8 +42,8 @@ A B.Tech student specializing in **Artificial Intelligence & Machine Learning**,
 ## 📫 Let’s Connect
 
 - **GitHub:** [@Sriikaran](https://github.com/Sriikaran)  
-- **LinkedIn:** [Sri Karan](https://www.linkedin.com/in/your‑linkedin‑link](https://www.linkedin.com/in/srikaranreddy/)  
-- **Email:** [your.email@example.com] (always happy to chat about code, AI, or collabs!)
+- **LinkedIn:** [Srikaran Reddy](https://www.linkedin.com/in/srikaranreddy/)  
+- **Email:** [mail2srikaran@gmail.com] (always happy to chat about code, AI, or collabs!)
 
 ---
 
@@ -51,8 +51,9 @@ A B.Tech student specializing in **Artificial Intelligence & Machine Learning**,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sriikaran&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriikaran&theme=github_dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sriikaran&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
