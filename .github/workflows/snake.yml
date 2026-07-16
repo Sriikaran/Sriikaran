@@ -19,8 +19,7 @@ jobs:
         with:
           github_user_name: Sriikaran
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#15151a&color_dots=#f0eee8,#dedad1,#b7b2a5,#8a8579,#3a3833
 
       - name: Push output to the "output" branch
         uses: crazy-max/ghaction-github-pages@v4
