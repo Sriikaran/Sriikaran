@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 173"
+     width="760" height="173" role="img" aria-labelledby="title description">
+  <title id="title">Repository languages</title>
+  <desc id="description">Python 46%, JavaScript 25%, TypeScript 21%, HTML 4%, Rust 4%</desc>
+  <rect x="0.5" y="0.5" width="759" height="172" rx="8" fill="#151d2a" stroke="#344459"/>
+  <g font-family="ui-monospace, Consolas, monospace">
+    <text x="20" y="30" fill="#eef5ff" font-size="21" font-weight="700" text-anchor="start">Repository languages</text>
+    <text x="740" y="30" fill="#abbad0" font-size="13" font-weight="400" text-anchor="end">Primary language per original repo</text>
+    <text x="20" y="62" fill="#eef5ff" font-size="15" font-weight="600" text-anchor="start">Python</text>
+    <rect x="170" y="52" width="516" height="10" rx="5" fill="#233043" stroke="none"/>
+    <rect x="170" y="52" width="236" height="10" rx="5" fill="#72dfb2" stroke="none"/>
+    <text x="740" y="62" fill="#abbad0" font-size="14" font-weight="400" text-anchor="end">46%</text>
+    <text x="20" y="85" fill="#eef5ff" font-size="15" font-weight="600" text-anchor="start">JavaScript</text>
+    <rect x="170" y="75" width="516" height="10" rx="5" fill="#233043" stroke="none"/>
+    <rect x="170" y="75" width="129" height="10" rx="5" fill="#89baff" stroke="none"/>
+    <text x="740" y="85" fill="#abbad0" font-size="14" font-weight="400" text-anchor="end">25%</text>
+    <text x="20" y="108" fill="#eef5ff" font-size="15" font-weight="600" text-anchor="start">TypeScript</text>
+    <rect x="170" y="98" width="516" height="10" rx="5" fill="#233043" stroke="none"/>
+    <rect x="170" y="98" width="108" height="10" rx="5" fill="#ecbf78" stroke="none"/>
+    <text x="740" y="108" fill="#abbad0" font-size="14" font-weight="400" text-anchor="end">21%</text>
+    <text x="20" y="131" fill="#eef5ff" font-size="15" font-weight="600" text-anchor="start">HTML</text>
+    <rect x="170" y="121" width="516" height="10" rx="5" fill="#233043" stroke="none"/>
+    <rect x="170" y="121" width="22" height="10" rx="5" fill="#b4aaff" stroke="none"/>
+    <text x="740" y="131" fill="#abbad0" font-size="14" font-weight="400" text-anchor="end">4%</text>
+    <text x="20" y="154" fill="#eef5ff" font-size="15" font-weight="600" text-anchor="start">Rust</text>
+    <rect x="170" y="144" width="516" height="10" rx="5" fill="#233043" stroke="none"/>
+    <rect x="170" y="144" width="22" height="10" rx="5" fill="#9edce9" stroke="none"/>
+    <text x="740" y="154" fill="#abbad0" font-size="14" font-weight="400" text-anchor="end">4%</text>
+  </g>
+</svg>

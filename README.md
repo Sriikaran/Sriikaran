@@ -1,100 +1,67 @@
-<div align="center">
-<img src="assets/banner.svg" width="100%" alt="Sri Karan" />
-</div>
+<img src="assets/pixel-workspace.png" width="100%" alt="Pixel-art workspace overlooking Hyderabad at night, with code on one screen and vehicle tracking on another">
 
-<br><br>
+<a href="https://github.com/Sriikaran"><img align="right" src="assets/profile-mark.svg" width="80" height="80" alt="Sriikaran pixel mark"></a>
+
+# Chethireddy Srikaran Reddy
+
+**Full-stack development · Applied computer vision** · Hyderabad, India
+
+I build web apps and turn computer vision experiments into tools people can use.
+
+[Work](#selected-work) · [Toolkit](#toolkit) · [Activity](#contribution-activity) · [Contact](#contact)
+
+[![GitHub stats for Sriikaran][stats-card]][repositories]
+
+## Selected work
+
+<p>
+  <a href="https://github.com/Sriikaran/AerialVision"><img width="49%" src="assets/project-aerialvision.svg" alt="AerialVision — aerial detection and tracking with PyTorch and SAHI"></a>
+  <a href="https://github.com/Sriikaran/Gamana"><img width="49%" src="assets/project-gamana.svg" alt="Gamana — adaptive traffic signals with Python and React"></a>
+</p>
+<p>
+  <a href="https://github.com/Sriikaran/Krishimitra"><img width="49%" src="assets/project-krishimitra.svg" alt="Krishimitra — crop guidance for farmers with Next.js and TypeScript"></a>
+  <a href="https://github.com/Sriikaran/jobhub"><img width="49%" src="assets/project-jobhub.svg" alt="JobHub — job search and application tracking with React and Tailwind CSS"></a>
+</p>
 
 <details>
-<summary><b>▶</b> &nbsp;<code>run about.sh</code></summary>
+<summary><strong>How they work · start with the code</strong></summary>
 
-<br>
-
-<div align="center">
-<img src="assets/ascii-portrait.png" width="300" alt="ASCII portrait" />
-</div>
-
-<br>
-
-```
-$ cat about.md
-
-second-year b.tech, ai & ml
-vnr vignana jyothi institute of engineering & technology
-2024 – 2028  ·  cgpa 9.30
-
-focus     computer vision, agritech, agentic systems
-motto     build first, understand later
-past      full-stack dev intern @ nirvaha · open-source contributor, gssoc 2025
-based in  hyderabad, india
-```
+- **AerialVision** uses tiled inference to detect small objects in aerial footage. [Detector configuration][detector] · [Benchmark results][benchmarks]
+- **Gamana** turns tracked vehicles and lane pressure into signal timings and displays the decisions in a dashboard. [Signal controller][signal-controller] · [React dashboard][traffic-dashboard]
+- **Krishimitra** connects a farmer-facing crop form to a recommendation API. [Crop guidance UI][crop-ui] · [Recommendation route][crop-api]
+- **JobHub** tracks a user's job applications in React. [Application state][job-applications]
 
 </details>
 
-<br>
+## Toolkit
+
+**Computer vision** · Python, PyTorch, OpenCV, MMDetection, SAHI  
+**Web** · TypeScript, React, Next.js, Tailwind CSS
 
 <details>
-<summary><b>▶</b> &nbsp;<code>tail -f now.log</code></summary>
+<summary><strong>See repository languages</strong></summary>
 
-<br>
-
-```
-[2026-07]  retraining AerialVision from scratch —
-           closing a train/inference gap in SAHI
-           sliced inference. Swin Transformer +
-           Faster R-CNN on MMDetection, BoT-SORT
-           for tracking.
-
-[2026-06]  shipped Amazon Outcome Intelligence
-           at HackOn With Amazon 6.0.
-
-[ongoing]  reading restoration-CV papers —
-           Retinexformer, DRSformer.
-```
+[![Primary languages across original public repositories][languages-card]][repositories]
 
 </details>
 
-<br><br>
+## Contribution activity
 
-<h3>stack</h3>
+[![GitHub activity over the past year with active weeks and longest streak][activity-card]][contributions]
 
-<code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>React</code> <code>Node.js</code> <code>PyTorch</code> <code>MMDetection</code> <code>PostgreSQL</code> <code>Docker</code>
+## Contact
 
-<br><br>
+[LinkedIn](https://linkedin.com/in/srikaranreddy) · [Email](mailto:mail2srikaran@gmail.com) · [All repositories][repositories]
 
-<h3>projects</h3>
-
-**AerialVision** — aerial object detection & tracking. Swin Transformer + Faster R-CNN via MMDetection, BoT-SORT for tracking, SAHI for sliced inference on dense scenes.
-<sub><code>mmdetection</code> <code>pytorch</code> <code>sahi</code></sub>
-
-**KrishiMitra** — a farmer-facing agritech platform pairing traditional Indian UI motifs with modern tooling. Top 10, Hackfiniti National Hackathon 2025.
-<sub><code>react</code> <code>node</code> <code>mongodb</code></sub>
-
-**Gamana** — AI-driven traffic control, exploring real-time signal optimization at urban intersections.
-<sub><code>python</code> <code>computer vision</code></sub>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sriikaran&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=15151a&text_color=6f6d66&icon_color=8a8579" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriikaran&layout=compact&hide_border=true&bg_color=00000000&title_color=15151a&text_color=6f6d66&langs_count=6" height="150"/>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sriikaran/Sriikaran/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-<br><br>
-
-<div align="center">
-
-<sub><a href="https://linkedin.com/in/srikaranreddy">linkedin</a> &nbsp;·&nbsp; <a href="mailto:mail2srikaran@gmail.com">email</a> &nbsp;·&nbsp; <a href="https://github.com/Sriikaran">github</a></sub>
-
-<br><br>
-
-<sub>currently building AerialVision · open to interesting problems</sub>
-
-</div>
+[stats-card]: assets/profile-stats.svg
+[languages-card]: assets/profile-languages.svg
+[activity-card]: assets/profile-activity.svg
+[repositories]: https://github.com/Sriikaran?tab=repositories
+[contributions]: https://github.com/Sriikaran?tab=overview
+[detector]: https://github.com/Sriikaran/AerialVision/blob/main/configs/custom_faster_rcnn_swin.py
+[benchmarks]: https://github.com/Sriikaran/AerialVision/blob/main/BENCHMARK_RESULTS.md
+[signal-controller]: https://github.com/Sriikaran/Gamana/blob/main/backend/modules/signal_controller.py
+[traffic-dashboard]: https://github.com/Sriikaran/Gamana/blob/main/frontend/src/App.jsx
+[crop-ui]: https://github.com/Sriikaran/Krishimitra/blob/main/app/crop-recommendation/page.tsx
+[crop-api]: https://github.com/Sriikaran/Krishimitra/blob/main/app/api/crop-recommendation/route.ts
+[job-applications]: https://github.com/Sriikaran/jobhub/blob/main/jobhub/src/context/ApplicationsContext.jsx
