@@ -20,7 +20,7 @@ I build web apps and turn computer vision experiments into tools people can use.
 </p>
 <p>
   <a href="https://github.com/Sriikaran/Krishimitra"><img width="49%" src="assets/project-krishimitra.svg" alt="Krishimitra — crop guidance for farmers with Next.js and TypeScript"></a>
-  <a href="https://github.com/Sriikaran/jobhub"><img width="49%" src="assets/project-jobhub.svg" alt="JobHub — job search and application tracking with React and Tailwind CSS"></a>
+  <a href="https://github.com/Sriikaran/LifeGraph-Fresh"><img width="49%" src="assets/project-lifegraph-fresh.svg" alt="LifeGraph Fresh — commerce knowledge graph with FastAPI and DynamoDB"></a>
 </p>
 
 <details>
@@ -29,7 +29,7 @@ I build web apps and turn computer vision experiments into tools people can use.
 - **AerialVision** uses tiled inference to detect small objects in aerial footage. [Detector configuration][detector] · [Benchmark results][benchmarks]
 - **Gamana** turns tracked vehicles and lane pressure into signal timings and displays the decisions in a dashboard. [Signal controller][signal-controller] · [React dashboard][traffic-dashboard]
 - **Krishimitra** connects a farmer-facing crop form to a recommendation API. [Crop guidance UI][crop-ui] · [Recommendation route][crop-api]
-- **JobHub** tracks a user's job applications in React. [Application state][job-applications]
+- **LifeGraph Fresh** connects shopping tasks and products in a commerce knowledge graph and evaluates purchase risks. [Graph service][lifegraph-graph] · [Risk controller][lifegraph-risk]
 
 </details>
 
@@ -64,4 +64,5 @@ I build web apps and turn computer vision experiments into tools people can use.
 [traffic-dashboard]: https://github.com/Sriikaran/Gamana/blob/main/frontend/src/App.jsx
 [crop-ui]: https://github.com/Sriikaran/Krishimitra/blob/main/app/crop-recommendation/page.tsx
 [crop-api]: https://github.com/Sriikaran/Krishimitra/blob/main/app/api/crop-recommendation/route.ts
-[job-applications]: https://github.com/Sriikaran/jobhub/blob/main/jobhub/src/context/ApplicationsContext.jsx
+[lifegraph-graph]: https://github.com/Sriikaran/LifeGraph-Fresh/blob/main/src/domains/graph/service.py
+[lifegraph-risk]: https://github.com/Sriikaran/LifeGraph-Fresh/blob/main/src/api/controllers/risk_controller.py
